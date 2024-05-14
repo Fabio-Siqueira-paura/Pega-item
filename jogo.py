@@ -69,7 +69,7 @@ lista_comida = [Obstaculo("imagens/uva.png",80,50,100,0),
                Obstaculo("imagens/plastico.png",80,50,20,0),
                Obstaculo("imagens/plastico.png",80,50,20,0),
                Obstaculo("imagens/plastico.png",80,50,20,0),]
-#.
+
 #Configurando a fonte
 # fonte = pygame.font.SysFont("Castellar",14)
 
